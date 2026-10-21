@@ -1,6 +1,7 @@
 {
  "work": "宇津保物語",
  "work_id": "utsuho",
+ "repo": "kumoi-no-fumigura/utsuho-monogatari",
  "yomi": "うつほものがたり",
  "category": "物語",
  "editions": [
@@ -3524,6 +3525,5 @@
    ],
    "text": "小本本杉つ屋1月榲ら邨子物語部五★"
   }
- ],
- "repo": "kumoi-no-fumigura/utsuho-monogatari"
+ ]
 }
