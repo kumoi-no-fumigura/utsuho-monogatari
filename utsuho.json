@@ -16,7 +16,7 @@
    "url": "https://dl.ndl.go.jp/pid/991357"
   }
  ],
- "status": "未校正（NDL 全文 OCR のまま。ルビ・柱・誤認識を含む）",
+ "status": "校正中（NDL 全文 OCR から起こし、修正案で 1 か所を直した。ほかはルビ・柱・誤認識を含む）",
  "license": {
   "text": "CC0 1.0"
  },
